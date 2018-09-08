@@ -5,3 +5,6 @@ Here you will find the 3D models ready for printing, schematics, code and assemb
 
 ------------------------------------
 Decilo! es un intercomunicador multi propósito de bajo costo realizado con impresion 3D, diseñado para terapias de estimulación del habla y como dispositivo de ayuda a la comunicación Puede ser customizado dada su estructura modular y la posibilidad de usar diferentes módulos electrónicos.
+
+
+![](https://github.com/cirujadigital/DeciloV2/blob/master/images/20180817_225743.jpg)

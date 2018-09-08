@@ -8,4 +8,6 @@ Decilo! es un intercomunicador multi propósito de bajo costo realizado con impr
 
 Para mayores detalles de armado, referirse a la [Wiki](https://github.com/cirujadigital/DeciloV2/wiki)
 
+[Video](https://www.youtube.com/watch?v=i9Z7RPCdvr4)
+
 ![](https://github.com/cirujadigital/DeciloV2/blob/master/images/20180817_225743.jpg)
